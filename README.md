@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ivlopez03
 - 👀 I’m interested in software engineering and data science
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Typescript, deno , react ...
+- 💞️ I’m looking to collaborate on any project.
 - 📫 How to reach me ... ivlopez.dev@gmail.com
 
 <!---
