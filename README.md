@@ -34,7 +34,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p><a href="https://dev.to/@ivlopez03" target="_blank" > <img alt="dev"  src="https://img.shields.io/badge/-dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a> <a href="www.linkedin.com/in/ivlopez13" target="_blank" > <img alt="LinkedIn" src="https://img.shields.io/badge/-linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p>
+<p><a href="https://dev.to/@ivlopez03" target="_blank" > <img alt="dev"  src="https://img.shields.io/badge/-dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a> <a href="https://www.linkedin.com/in/ivlopez13/" target="_blank" > <img alt="LinkedIn" src="https://img.shields.io/badge/-linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p>
 
 <!---
 ivlopez03/ivlopez03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
