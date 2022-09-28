@@ -29,7 +29,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivlopez03&show_icons=true&locale=en&layout=compact" alt="ivlopez03" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivlopez03&show_icons=true&locale=en" alt="ivlopez03" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
