@@ -1,7 +1,7 @@
 <h3 align="center"> Meme of the week 😹 </h3>
 <p align="center"><img align="center"  src="meme13.JPG" width="300" /></p>
 <h1 align="center">Hi 👋, I'm Ivan Lopez</h1>
-<p>Welcome to my page! </br> I'm Fullstack developer from <img src="mexico.png" width="13"/> <b>Hermosillo, Mexico</b>
+<p>Welcome to my page! </br> I'm a Software Developer from <img src="mexico.png" width="13"/> <b>Hermosillo, Mexico</b>
 <h3>Things I code with</h3>
 <p>
   <img alt="NET" src="https://img.shields.io/badge/-Dotnet-512BD4?style=flat-square&logo=.NET&logoColor=white" />
