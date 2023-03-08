@@ -1,4 +1,8 @@
 <h3 align="center"> Hi 👋, I'm Ivan Lopez</h3>
+<p align="center"> <img src="https://user-images.githubusercontent.com/111618970/223684988-52cce6ea-4380-412b-84d5-42c406ad70d3.gif">
+
+
+
 <p align="center"><a href="https://dev.to/@ivlopez03" target="_blank" > <img alt="dev"  src="https://img.shields.io/badge/-dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a> <a href="https://www.linkedin.com/in/ivlopez13/" target="_blank" > <img alt="LinkedIn" src="https://img.shields.io/badge/-linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><p>
 <p align="center"> </br> I'm a Software Developer from <img src="mexico.png" width="13"/> <b>Hermosillo, Mexico</b>
 
