@@ -11,7 +11,8 @@
 <h4 align="center" > 💻 Things I code : </h4>
 
  <p align="center"> 🚀 <b>Redim vscode extension<b>
-<br><img src="https://user-images.githubusercontent.com/111618970/223560288-d830774d-731b-473d-b11f-db53af2d5673.png"  width="110" height="110" > 
+<br><img src="https://github.com/ivlopez03/redim/assets/111618970/5a3b85fa-8688-4a38-becc-f74922f7b2ef"  width="110" height="110" > 
+
 <p align ="center"> https://marketplace.visualstudio.com/items?itemName=Redimvs.redim
 </p>
 
