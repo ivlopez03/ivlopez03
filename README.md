@@ -20,9 +20,7 @@
 <h4 align="center"> dev stack </h4>
 <br>
 <p align="center">
-  <img alt="NET" src="https://img.shields.io/badge/-Java-512BD4?style=flat-square&logo=Java&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
-  <img alt="csharp" src="https://img.shields.io/badge/-Csharp-C733FF?style=flat-square&logo=C Sharp&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <br><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
