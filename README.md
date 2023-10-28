@@ -25,14 +25,13 @@ I'm a Software Developer from <img src="mexico.png" width="13"/> **Hermosillo, M
 ### 💻 Things I code : 
 
 
-<h4> 🚀 <b>Redim vscode extension</b> </h4>
 <img align="left"  src="https://github.com/ivlopez03/redim/assets/111618970/5a3b85fa-8688-4a38-becc-f74922f7b2ef"  width="110" height="110" > 
+<h4> 🚀 <b>Redim</b> </h4>
 <p align="left" >Redim is a vs code extension for optimizing images using commands.</p>
 <p>https://marketplace.visualstudio.com/items?itemName=Redimvs.redim</p>
 
-
-
 #
+
 
 <p align="center"> 📫 How to reach me <b>ivlopez.dev@gmail.com</b>
 
