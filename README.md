@@ -1,6 +1,6 @@
-Hi
+Hi I'm a cat ninja
 <br/>
-I like Rust 🦀 and indie hacking.
+I like Go 🐿️ and indie hacking.
 <br/>
 
 💻 Things I code : 
