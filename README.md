@@ -1,10 +1,6 @@
-Hi I'm a cat ninja
-<br/>
-I like Go 🐿️ and indie hacking.
-<br/>
+Hi I'm Ivan Lopez
 
 💻 Things I code : 
-
 
 <img align="left"  src="https://github.com/ivlopez03/redim/assets/111618970/5a3b85fa-8688-4a38-becc-f74922f7b2ef"  width="60" height="60" > 
 <p> 🚀 Redim </p>
