@@ -10,7 +10,8 @@ If you ever want to chat, collaborate, or send memes:
 
 Social:
 
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/IvlopezDev)
+<p align="left"> <a href="https://x.com/ivan_lopm" target="blank"><img src="https://img.shields.io/twitter/follow/ivan_lopm?logo=twitter&style=for-the-badge" alt="ivanlop" /></a> </p>
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivlopez13/)
 
 
