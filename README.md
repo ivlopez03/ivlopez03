@@ -3,6 +3,7 @@
 👋 I’m a software developer diving into the world of Go
 (and yes… I use Neovim btw 😎).  
 I love building things wether it's backend logic, dev tools, or random ideas that come to life at 2 AM.
+
 If you ever want to chat, collaborate, or send memes:
 
 📪 Reach me at: ivlopez.dev@gmail.com
