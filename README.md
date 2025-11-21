@@ -1,15 +1,17 @@
 # Hi there, I'm Ivan Lopez
+
+👋 I’m a software developer diving into the world of Go
+(and yes… I use Neovim btw 😎).  
+I love building things wether it's backend logic, dev tools, or random ideas that come to life at 2 AM.
+If you ever want to chat, collaborate, or send memes:
+
+📪 Reach me at: ivlopez.dev@gmail.com
+
+Social:
+
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/IvlopezDev)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivlopez13/)
 
-👋 Hey! I’m a software developer diving into the world of Go
-(and yes… I use Neovim btw 😎)
-
-I love building clean, efficient things wether it's backend logic, dev tools, or random ideas that come to life at 2 AM.
-
-If you ever want to chat, collaborate, or send memes(hire me):
-
-📪 Reach me at: ivlopez.dev@gmail.com
 
 <br/>
 
