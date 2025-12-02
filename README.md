@@ -14,6 +14,9 @@ Social:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivlopez13/)
 
+![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=ivlopez03&theme=dark)
+
+
 
 Languages:
 
